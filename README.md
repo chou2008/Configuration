@@ -11,10 +11,10 @@ Nothing to add right now.
 
 
 ## Examples of list
-- list item 1
-- list item 2
-+ list item 2.1
-+ List item 2.2
+- list item 1  
+- list item 2  
+ + list item 2.1
+ + List item 2.2
 - list item 3
 
 
